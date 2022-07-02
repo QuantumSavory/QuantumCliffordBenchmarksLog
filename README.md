@@ -42,3 +42,7 @@ Allocation benchmarks
 The y axis is number of allocations. Lower is better.<br>
 <img src="./benchmarks3_allocs.png">
 </details>
+
+The [benchmarking code](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/benchmarks.jl)
+and the [plotting routines](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/plotbenchmarks.jl)
+are available in the [QuantumClifford.jl repository](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/plotbenchmarks.jl).
