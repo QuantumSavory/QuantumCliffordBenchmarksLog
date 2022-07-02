@@ -43,6 +43,11 @@ The y axis is number of allocations. Lower is better.<br>
 <img src="./benchmarks3_allocs.png">
 </details>
 
+### TTFX benchmarks
+
+Time to import, time to run a typical task, and their sum total.<br>
+<img src="./benchmarks_ttfx.png">
+
 The [benchmarking code](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/benchmarks.jl)
 and the [plotting routines](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/plotbenchmarks.jl)
 are available in the [QuantumClifford.jl repository](https://github.com/Krastanov/QuantumClifford.jl/blob/master/benchmark/plotbenchmarks.jl).
